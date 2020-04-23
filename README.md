@@ -1,8 +1,10 @@
 # coronavirus_challenge
 
-## My github repo link: https://github.com/onionpork/coronavirus_challenge
+## My github repo link:-
+https://github.com/onionpork/coronavirus_challenge
 
-## Please follow the link for the for the blog post: https://medium.com/@yiruic/covid-19-a-simple-study-and-data-visualization-on-nearby-states-b48eb179f88b
+## Please follow the link for the for the blog post:-
+https://medium.com/@yiruic/covid-19-a-simple-study-and-data-visualization-on-nearby-states-b48eb179f88b
 
 ## Introduction
 For this challenge, datasets in Kaggle 'Novel Corona Virus 2019 Dataset' were used. Only data produced in USA has been utilitzed to complete this challenge, COVID-19 observations in other regions were not included in this challenge. 
