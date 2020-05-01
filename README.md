@@ -22,14 +22,14 @@ https://github.com/CSSEGISandData/COVID-19
 
 
 ## Files included
-- Two spreadsheet have been used in this small project, which are stored in 'data' folder
-- Output figures are saved in folder 'Figure'
-- Three complete jupypter notebooks
-      1. DRAFT__draft_coronavirus_challenge.ipynb
-      2. covid19_draft_data_visual.ipynb
-      3. covid19_draft_data_SIR.ipynb
-- One incomplete jupypter notebook
-      1. covid19_draft_model.ipynb
+1. Two spreadsheet have been used in this small project, which are stored in 'data' folder
+2. Output figures are saved in folder 'Figure'
+3. Three complete jupypter notebooks
+      - DRAFT__draft_coronavirus_challenge.ipynb
+      - covid19_draft_data_visual.ipynb
+      - covid19_draft_data_SIR.ipynb
+4. One incomplete jupypter notebook
+      - covid19_draft_model.ipynb
 
 ## Process involved
 The process starts with business understanding. 
